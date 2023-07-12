@@ -13,3 +13,20 @@
 
 ## 4. 사용한 기술 스택
 - html, css, js, node.js, react, github pages
+
+#### 언어
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
+</div>
+
+#### 런타임
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white">
+</div>
+
+#### 프레임워크
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white">
+</div>
