@@ -13,4 +13,4 @@
 
 
 ## 4. 사용한 기술 스택
-- 
+- html, css, js, node.js, react, github pages
