@@ -2,13 +2,16 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=537FE7&height=150&fontSize=30&text=당신이%20공부한%20CS%20정보를%20공유하고%20토론하세요!&descAlignY=75&descAlign=60)
 
 ## 🔍 CSNS 소개
+
 - “카북” 은 차를 사랑하는 사람들이 친구들과 자신의 멋진 차량 사진을 공유할 수 있는 SNS 입니다.
-원하는 차 모델과 종류를 선택하고, 원하는 해시태그를 추가하여 보고싶은 차 사진들을 볼 수 있습니다.
+  원하는 차 모델과 종류를 선택하고, 원하는 해시태그를 추가하여 보고싶은 차 사진들을 볼 수 있습니다.
 
 ## 🧑🏻‍💻 기술 스택
 
 ## ✨ 팀 소개
+
 ## 👫 팀 소개
+
 <table>
   <tr>
     <th>GitHub Profile Picture</th>
@@ -32,8 +35,8 @@
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/51106050?v=4" alt="Member 4" width="100" height="100"></td>
-    <td>문영님</td>
-    <td><a href = "https://github.com/moonyah">문영님 깃허브 가기</td>
+    <td>문용님</td>
+    <td><a href = "https://github.com/moonyah">문용님 깃허브 가기</td>
   </tr>
   <tr>
     <td><img src="https://w7.pngwing.com/pngs/949/852/png-transparent-chick-beautiful-lovely-animal.png" alt="Member 5" width="100" height="100"></td>
@@ -42,10 +45,10 @@
   </tr>
 </table>
 
-
-
 ## 🔗 팀 협업 링크
+
 ### [팀 노션](https://www.notion.so/CS-9eefde12ab6f44da987b51b0e8c6de83?pvs=4)
+
 ---
 
 - 개발자 Commit 제목 타입 참고 사항
