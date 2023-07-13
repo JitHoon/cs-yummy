@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/51106050?v=4" alt="Member 4" width="100" height="100"></td>
-    <td>문영님</td>
+    <td>문용님</td>
     <td><a href = "https://github.com/moonyah">문영님 깃허브 가기</td>
   </tr>
   <tr>
