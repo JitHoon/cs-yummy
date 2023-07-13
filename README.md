@@ -43,7 +43,7 @@
 
 
 ## 🔗 팀 협업 링크
-
+### [팀 노션](https://www.notion.so/CS-9eefde12ab6f44da987b51b0e8c6de83?pvs=4)
 ---
 
 - 개발자 Commit 제목 타입 참고 사항
