@@ -6,7 +6,6 @@
 ## 🧑🏻‍💻 기술 스택
 
 ## ✨ 팀 소개
-## 👫 팀 소개
 <table>
   <tr>
     <th>GitHub Profile Picture</th>
@@ -31,7 +30,7 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/51106050?v=4" alt="Member 4" width="100" height="100"></td>
     <td>문용님</td>
-    <td><a href = "https://github.com/moonyah">문영님 깃허브 가기</td>
+    <td><a href = "https://github.com/moonyah">문용님 깃허브 가기</td>
   </tr>
   <tr>
     <td><img src="https://w7.pngwing.com/pngs/949/852/png-transparent-chick-beautiful-lovely-animal.png" alt="Member 5" width="100" height="100"></td>
