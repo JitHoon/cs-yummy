@@ -4,6 +4,13 @@
 ## 🔍 CSNS 소개
 
 ## 🧑🏻‍💻 기술 스택
+<div style="display:flex;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+</div>
 
 ## ✨ 팀 소개
 ## 👫 팀 소개
