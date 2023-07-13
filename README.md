@@ -6,6 +6,41 @@
 ## 🧑🏻‍💻 기술 스택
 
 ## ✨ 팀 소개
+## 👫 팀 소개
+<table>
+  <tr>
+    <th>GitHub Profile Picture</th>
+    <th>Name</th>
+    <th>GitHub Address</th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/101972330?v=4" alt="Member 1" width="100" height="100"></td>
+    <td>지훈님</td>
+    <td><a href = "https://github.com/JitHoon">지훈님 깃허브 가기</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/39702832?v=4" alt="Member 2" width="100" height="100"></td>
+    <td>승준님</td>
+    <td><a href = "https://github.com/seungjun222">승준님 깃허브 가기</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/95364951?v=4" alt="Member 3" width="100" height="100"></td>
+    <td>은지님</td>
+    <td><a href = "https://github.com/lilviolie">은지님 깃허브 가기</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/51106050?v=4" alt="Member 4" width="100" height="100"></td>
+    <td>문영님</td>
+    <td><a href = "https://github.com/moonyah">문영님 깃허브 가기</td>
+  </tr>
+  <tr>
+    <td><img src="https://w7.pngwing.com/pngs/949/852/png-transparent-chick-beautiful-lovely-animal.png" alt="Member 5" width="100" height="100"></td>
+    <td>민섭님</td>
+    <td><a href = "https://github.com/LikeFireAndSky">민섭님 깃허브 가기</td>
+  </tr>
+</table>
+
+
 
 ## 🔗 팀 협업 링크
 
