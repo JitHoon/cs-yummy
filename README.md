@@ -7,6 +7,13 @@
   원하는 차 모델과 종류를 선택하고, 원하는 해시태그를 추가하여 보고싶은 차 사진들을 볼 수 있습니다.
 
 ## 🧑🏻‍💻 기술 스택
+<div style="display:flex;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+</div>
 
 ## ✨ 팀 소개
 
